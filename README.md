@@ -4,7 +4,7 @@ This is a SFW list of over 8000 UK English words that can be used in any project
 # dictionary.txt
 The dictionary file
 
-# studentdictionary.txt
+# childdictionary.txt
 Simple dictionary that can be used when creating passwords for children
 
 # version.txt
