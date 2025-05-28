@@ -7133,9 +7133,6 @@ seventh
 several
 severe
 sewing
-sexual
-sexuality
-sexually
 shade
 shades
 shadow
@@ -8786,7 +8783,6 @@ workstation
 world
 worldcat
 worlds
-worldsex
 worldwide
 worm
 worn
