@@ -10,5 +10,5 @@ Simple word dictionary that can be used when creating passwords suitable for chi
 # version.txt
 Version control for the dictionary which can be used to check for / update the dictionary when used in any applications. The version will increment when words are added / removed. 
 
-# studentversion.txt
+# childversion.txt
 Version control for the student dictionary which can be used to check for / update the dictionary when used in any applications. The version will increment when words are added / removed.
